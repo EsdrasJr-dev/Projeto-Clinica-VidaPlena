@@ -24,10 +24,16 @@ Os arquivos do diagrama estão na pasta `docs/diagramas`:
 - [Diagrama editável](docs/diagramas/Diagrama%20de%20classes%20Clinica%20VidaPlena.drawio)
 - [Diagrama em PNG](docs/diagramas/Diagrama%20de%20classes%20Clinica%20VidaPlena.drawio.png)
 
+## Documento de referência
+
+O arquivo [EntrevistaTecnica.pdf](docs/EntrevistaTecnica.pdf) contém a entrevista usada como referência para elaborar o diagrama de classes e identificar os requisitos do projeto.
+
 ## Integrantes
 
+### 1º Semestre:
 - [Esdras Batista](https://github.com/EsdrasJr-dev)
 - [Rodrigo Felipe](https://github.com/rodrigofelipe1021-cloud)
 - [Vinicius Rodrigo](https://github.com/vr8027173)
 - Thiago Domingos
+### 2º Semestre:
 - [Gabriel Rodrigues](https://github.com/gr657737-ui)
