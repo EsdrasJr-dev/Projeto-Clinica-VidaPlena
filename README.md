@@ -26,8 +26,8 @@ Os arquivos do diagrama estão na pasta `docs/diagramas`:
 
 ## Integrantes
 
-- Esdras Batista
-- Rodrigo Felipe
-- Vinicius Rodrigo
+- [Esdras Batista](https://github.com/EsdrasJr-dev)
+- [Rodrigo Felipe](https://github.com/rodrigofelipe1021-cloud)
+- [Vinicius Rodrigo](https://github.com/vr8027173)
 - Thiago Domingos
-- Gabriel Rodrigues
+- [Gabriel Rodrigues](https://github.com/gr657737-ui)
