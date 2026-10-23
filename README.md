@@ -23,6 +23,8 @@ Os arquivos do diagrama estão na pasta `docs/diagramas`:
 
 - [Diagrama editável](docs/diagramas/Diagrama%20de%20classes%20Clinica%20VidaPlena.drawio)
 - [Diagrama em PNG](docs/diagramas/Diagrama%20de%20classes%20Clinica%20VidaPlena.drawio.png)
+- [Diagrama de atividades editável](docs/diagramas/Diagrama%20de%20atividade%20agendamento.drawio)
+- [Diagrama de atividades JPG](docs/diagramas/Diagrama%20de%20atividade%20agendamento.jpg)
 
 ## Documento de referência
 
