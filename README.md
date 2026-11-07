@@ -42,3 +42,13 @@ O arquivo [EntrevistaTecnica.pdf](docs/EntrevistaTecnica.pdf) contém a entrevis
   
 ### 2º Semestre:
 - [Gabriel Rodrigues](https://github.com/gr657737-ui)
+
+
+Os 4 diagramas e, para cada um, este resumo:
+
+| Diagrama | O que escolhemos (classe ou funcionalidade) | Resumo: o que está acontecendo (3 a 5 linhas) |
+|----------|---------------------------------------------|-----------------------------------------------|
+| Casos de uso | | |
+| Sequência | | |
+| Estados | | |
+| Atividades | | |
