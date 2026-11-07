@@ -37,5 +37,6 @@ O arquivo [EntrevistaTecnica.pdf](docs/EntrevistaTecnica.pdf) contém a entrevis
 - [Rodrigo Felipe](https://github.com/rodrigofelipe1021-cloud)
 - [Vinicius Rodrigo](https://github.com/vr8027173)
 - [Thiago Domingos](https://github.com/thiagodomingos27082006-droid)
+- [Midiane dos Santos](https://github.com/midiane-svictorino)
 ### 2º Semestre:
 - [Gabriel Rodrigues](https://github.com/gr657737-ui)
